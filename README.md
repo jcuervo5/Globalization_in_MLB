@@ -1,2 +1,2 @@
-Globalization in Major League Baseball
+# Globalization in Major League Baseball
 
