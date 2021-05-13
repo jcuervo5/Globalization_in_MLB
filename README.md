@@ -1,11 +1,11 @@
 # Globalization in Major League Baseball
 
 ## Table of contents
-*[Introduction](#Introduction)
-*[Technologies](#Technologies)
-*[Visualizations](#Setup)
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
+* [Visualizations](#Setup)
 
-## Introduction
+### Introduction
 The aim of this analysis is to visualize the increasing diversity of MLB players' nationalities. In addition, a deeper analysis is conducted to find exactly where players are coming from down to the State and City levels of each country. 
 
 ### The analysis attempts to answer the following questions:
@@ -19,11 +19,11 @@ Do players from certain Countries outperform others?
 ## Technologies
 
 Project was created with:
-*Python 3.6
-*Pandas
-*Numpy
-*Matplotlib
-*Jupyter Notebook
+* Python 3.6
+* Pandas
+* Numpy
+* Matplotlib
+* Jupyter Notebook
 
 ## Visualizations
 
