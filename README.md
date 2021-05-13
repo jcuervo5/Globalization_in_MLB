@@ -1,1 +1,2 @@
-# Project_1
+Globalization in Major League Baseball
+
