@@ -25,7 +25,7 @@ Project was created with:
 * Matplotlib
 * Jupyter Notebook
 
-## Visualizations (Examples)
+## Visualizations
 
 #### What does Globalization in MLB look like?
 
