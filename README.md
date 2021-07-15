@@ -39,7 +39,10 @@ Project was created with:
 
 ![Where do the best players come from?](./Visualizations/allstar_pie.png)
 ![Foreign Birth Cities](./Visualizations/foreigncity_line.png)
-
+![Birth Country Bar](./Visualizations/mlbbirthcountry_bar.png)
+![USA Line](./Visualizations/usa_line.png)
+![USA City line](./Visualizations/usacity_line.png)
+![USA State line](./Visualizations/usastate_line.png)
 
 
 
