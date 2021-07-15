@@ -38,7 +38,7 @@ Project was created with:
 #### When normalizing to the overall breakdown of nationalities, we see where certain countries are over represented in the All-Star game.
 
 ![Where do the best players come from?](./Visualizations/allstar_pie.png)
-!(./Visualizations/foreigncity_line.png)
+![Foreign Birth Cities](./Visualizations/foreigncity_line.png)
 
 
 
