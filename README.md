@@ -19,7 +19,7 @@ Do players from certain Countries outperform others?
 ## Technologies
 
 Project was created with:
-* Python 3.6
+* Python
 * Pandas
 * Numpy
 * Matplotlib
